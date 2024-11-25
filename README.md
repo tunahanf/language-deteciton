@@ -1,7 +1,7 @@
 <div align ="center" id="toc">
   <ul style="list-style: none">
     <summary>
-      <h1 align="center" id="title">Text Language Detection with Deep Learning</h1>
+      <h1 align="center" id="title">Text Language Detection with Machine Learning</h1>
     </summary>
   </ul>
 </div>
