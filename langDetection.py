@@ -16,7 +16,7 @@ X = cv.fit_transform(x)
 X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=.42, random_state=52)
 model = MultinomialNB()
 model.fit(X_train, y_train)
-model.score(X_test, y_test)
+model.score(X_test, y_test) # Score : 0.9778812572759022
 userText = input("Enter your phrase : ")
 data = cv.transform([userText]).toarray()
 output = model.predict(data)
