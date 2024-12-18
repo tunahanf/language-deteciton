@@ -17,7 +17,7 @@
   
 <h2>💻 Built with</h2>
 
-Python libraries used in the project:
+Python libraries used in this project:
 
 *   Pandas
 *   Numpy
